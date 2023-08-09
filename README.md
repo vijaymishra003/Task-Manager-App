@@ -4,10 +4,7 @@ This repository houses the code of a Task Manager App. Feel free to explore the 
 
 <b> Sample Images </b>
 
-<img src="./assets/sample_img/img1.jpg" alt="drawing" width="200"/>
-<img src="./assets/sample_img/img2.jpg" alt="drawing" width="200"/>
-<img src="./assets/sample_img/img3.jpg" alt="drawing" width="200"/>
-<img src="./assets/sample_img/img4.jpg" alt="drawing" width="200"/>
+<img src="./assets/sample_img/img1.jpg" alt="drawing" width="200"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/sample_img/img2.jpg" alt="drawing" width="200"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/sample_img/img3.jpg" alt="drawing" width="200"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/sample_img/img4.jpg" alt="drawing" width="200"/>
 
 <b>Email: vijayshankarmishra003@gmail.com</b>
 
